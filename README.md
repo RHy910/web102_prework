@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<href src='https://imgur.com/a/DI6ch7H' title='Video Walkthrough' width='' alt='https://imgur.com/a/DI6ch7H' />
+<a  href='https://imgur.com/a/DI6ch7H' title='Video Walkthrough' width='' alt='https://imgur.com/a/DI6ch7H'>Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... licecap
